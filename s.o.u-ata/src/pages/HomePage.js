@@ -7,7 +7,7 @@ const HomePage = () => {
       <section className="relative">
         <div className="w-full h-[500px] bg-cover bg-center" style={{ backgroundImage: 'url(/path-to-your-image.jpg)' }}>
           <div className="bg-black bg-opacity-50 h-full flex flex-col justify-center items-center text-white px-4">
-            <h1 className="text-4xl md:text-6xl font-bold">Welcome to ATA High Schools</h1>
+            <h1 className="text-4xl md:text-6xl font-bold">Welcome to ATA High Schoolseeee</h1>
             <p className="mt-4 text-lg md:text-2xl">Empowering the leaders of tomorrow through quality education</p>
             <button className="mt-6 px-6 py-3 bg-blue-500 hover:bg-blue-600 rounded-full text-lg font-semibold">
               Learn More
