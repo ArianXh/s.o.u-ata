@@ -22,6 +22,7 @@ jobs:
 
     # Step 3: Install dependencies and build
     - name: Install Dependencies
+      working-directory: ./s.o.u-ata
       run: npm install
 
     - name: Build the Project
