@@ -2,7 +2,7 @@
   "name": "s.o.u-ata",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://souata.edu.mk/arian/",
+  "homepage": "https://souata.edu.mk/",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
