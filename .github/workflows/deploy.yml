@@ -26,6 +26,7 @@ jobs:
       run: npm install
 
     - name: Build the Project
+      working-directory: ./s.o.u-ata
       run: npm run build
 
     # Step 4: Deploy to FTP server
