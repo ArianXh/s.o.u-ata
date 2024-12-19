@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'
-import UnderConstruction from './components/UnderConstruction';
+import './index.css';
+import './i18n';
+//import UnderConstruction from './components/UnderConstruction';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
